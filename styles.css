@@ -1,10 +1,18 @@
+
+
 body {
     background-image: url("https://thumbs.dreamstime.com/t/blue-wood-weathred-painted-as-background-61297150.jpg");
 }
 h1 {
-    font-size: 375;
+    font-size: 100;
+    font-family: 'Homemade Apple', cursive;
 }
 /* unvisited link */
 a:link {
-    color: green;
+    color: ;
 }
+/* visted link */
+    a.letterw:link {
+        color: tan;
+    }
+    }
