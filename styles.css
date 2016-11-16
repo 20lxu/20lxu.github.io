@@ -3,16 +3,75 @@
 body {
     background-image: url("https://thumbs.dreamstime.com/t/blue-wood-weathred-painted-as-background-61297150.jpg");
 }
+body
+{
+    background-image: url("http://31.media.tumblr.com/0d9e78f56a068e0cf5ca214847af6759/tumblr_n4ywsi1ZcN1smqfiko1_500.gif")
+}
 h1 {
-    font-size: 100;
-    font-family: 'Homemade Apple', cursive;
+    font-size: 200;
+    font-family: 'Homemade Apple', cursive
+
 }
-/* unvisited link */
-a:link {
-    color: ;
+a {
+    text-decoration:none;
 }
-/* visted link */
-    a.letterw:link {
-        color: tan;
-    }
-    }
+a.red {
+    color:pink
+}
+a.red:link:hover {
+   color: purple;
+}
+a.orange {
+    color:tan;
+}
+a.orange:link:hover {
+    color:violet;
+}
+a.yellow {
+    color:brown;
+}
+a.yellow:link:hover {
+    color:teal;
+}
+a.green {
+    color:teal;
+}
+a.green:hover:link {
+    color:teal;
+}
+a.blue {
+    color:aqua;
+}
+a.blue:hover:link {
+    color:orange;
+}
+a.violet {
+    color:violet;
+}
+a.violet:hover:link {
+    color:orange;
+}
+a.purple {
+    color:gray;
+}
+a.purple:link:hover {
+    color:maroon;
+}
+a.red2 {
+    color:maroon;
+}
+a.red2:link:hover {
+    color:green;
+}
+a.orange2 {
+    color:orange;
+}
+a.orange2:link:hover {
+    color:violet;
+}
+a.yellow2 {
+    color:white;
+}
+a.yellow2:link:hover {
+    color:blue;
+}
